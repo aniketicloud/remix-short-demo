@@ -9,7 +9,7 @@ export default function App() {
         <Links />
       </head>
       <body>
-        <h1>Ciao Mondo ! modified</h1>
+        <h1>Ciao Mondo !</h1>
         <Outlet />
 
         <Scripts />
